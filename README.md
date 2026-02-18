@@ -72,14 +72,14 @@ O programa apresenta um menu interativo que permite visualizar cada tipo de movi
 
 ### No Linux/Mac:
 ```bash
-gcc xadrez_completo.c -o xadrez
-./xadrez
+gcc main.c -o main
+./main
 ```
 
 ### No Windows (com MinGW):
 ```bash
-gcc xadrez_completo.c -o xadrez.exe
-xadrez.exe
+gcc main.c -o main.exe
+main.exe
 ```
 
 ### No VS Code (com Code Runner):
